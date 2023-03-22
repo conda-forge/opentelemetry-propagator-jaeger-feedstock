@@ -1,11 +1,11 @@
-About opentelemetry-propagator-jaeger
-=====================================
+About opentelemetry-propagator-jaeger-feedstock
+===============================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-propagator-jaeger-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/open-telemetry/opentelemetry-python/tree/main/propagator/opentelemetry-propagator-jaeger
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-propagator-jaeger-feedstock/blob/main/LICENSE.txt)
 
 Summary: OpenTelemetry Jaeger Propagator
 
