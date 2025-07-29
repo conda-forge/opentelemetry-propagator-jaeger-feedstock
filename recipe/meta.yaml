@@ -1,5 +1,5 @@
 {% set name = "opentelemetry-propagator-jaeger" %}
-{% set version = "1.35.0" %}
+{% set version = "1.36.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_propagator_jaeger-{{ version }}.tar.gz
-  sha256: d872b854242cbc79c23075bf9fea83022c0a231544e154108c2e8dfa28a17033
+  sha256: f9fc4889f122be76c27ec26cd8f57d263b4127bc5557205cf13120099a672abd
 
 build:
   noarch: python
